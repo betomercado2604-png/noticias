@@ -1,0 +1,38 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 20px;
+}
+
+h1{
+    text-align: center;
+    color: navy;
+}
+
+button{
+    display: block;
+    margin: auto;
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#noticias{
+    margin-top: 20px;
+}
+
+.noticia{
+    background-color: white;
+    border: 1px solid gray;
+    margin-bottom: 15px;
+    padding: 15px;
+}
+
+.noticia h2{
+    color: darkblue;
+}
+
+.noticia a{
+    text-decoration: none;
+    color: red;
+}
